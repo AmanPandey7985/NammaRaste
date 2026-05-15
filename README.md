@@ -83,4 +83,4 @@ APK file is included in the repository for direct installation.
 
 ## Author
 
-Bhumika
+Aman Pandey
